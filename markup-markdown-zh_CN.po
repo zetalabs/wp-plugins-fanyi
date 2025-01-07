@@ -1,0 +1,623 @@
+# Translation of Plugins - Markup Markdown - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Markup Markdown - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-01-07 10:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Markup Markdown - Stable (latest release)\n"
+"Language-Team: 简体中文"
+
+#: MarkupMarkdown/Addons/Released/Layout.php:26
+msgid ""
+"A few tools to help you enhancing your layout. (Lightbox, Masonry, etc...)"
+msgstr "一些帮助您增强布局设计的工具。 (灯箱、砖石等......）。"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:511
+msgid "Active"
+msgstr "启用"
+
+#: MarkupMarkdown/Addons/Released/Media/Image.php:27
+msgid "Add basic html code syntax for responsive media."
+msgstr "为响应式媒体添加基本的 HTML 代码语法。"
+
+#: MarkupMarkdown/Core/Settings.php:293
+msgid "Addons marked with <sup>*</sup> should be used with caution."
+msgstr "标有 <sup>*</sup> 的插件应谨慎使用。"
+
+#: MarkupMarkdown/Core/Settings.php:291
+msgid "Addons used"
+msgstr "使用插件"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:79
+msgid ""
+"An image inside a %1$spost%2$s or %1$spage%2$s that was linked to its "
+"original size will open in a modal (overlay on the same page) instead of a "
+"new window / tab."
+msgstr ""
+"%1$spost%2$s 或 %1$spage%2$s 内链接到其原始大小的图像将在模态框中打开（覆盖在同一页面上），而不是在新窗口/选项卡中打开。"
+
+#: MarkupMarkdown/AutoPlugs/Templates/PlugsForm.php:4
+#: MarkupMarkdown/Core/AutoPlugs.php:195
+msgid "Autoplugs"
+msgstr "自动插件"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:154
+msgid "Available Buttons"
+msgstr "可用按钮"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:271
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:152
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:153
+msgid "Big Heading"
+msgstr "大标题"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:270
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:150
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:151
+msgid "Bigger Heading"
+msgstr "特大标题"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:463
+msgid ""
+"Bilingual: Depends on your machine, can be unstable so try to use it with "
+"caution."
+msgstr "双语：取决于您的机器，可能不稳定，因此请谨慎使用。"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:265
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:140
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:141
+msgid "Bold"
+msgstr "粗体"
+
+#: MarkupMarkdown/AutoPlugs/Templates/PlugsForm.php:5
+msgid "Bridges to activate markdown with existing plugins if available."
+msgstr "如果可用，使用现有插件激活 markdown 的桥梁。"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:151
+msgid ""
+"Buttons related to languages are represented as a single grey globe button, "
+"and will only be displayed if the related spell checkers are enabled."
+msgstr "与语言相关的按钮表示为一个灰色的球形按钮，只有在启用相关拼写检查选项时才会显示。"
+
+#: MarkupMarkdown/Core/Activation.php:84
+msgid "Buy me a coffee"
+msgstr "给我买杯咖啡"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:57
+msgid ""
+"By default space characters at the beginning of each line are removed (trim),"
+" check this option to keep them."
+msgstr "默认情况下，每行开头的空格字符会被删除（修剪），选中此选项可保留。"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:167
+msgid "Clean"
+msgstr "清除"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:278
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:166
+msgid "Clean block"
+msgstr "清除区块"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:274
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:158
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:159
+msgid "Code"
+msgstr "代码"
+
+#: MarkupMarkdown/Addons/Released/Media/Vimeo.php:22
+msgid "Convert automatically Vimeo links to an embedded iframe."
+msgstr "自动将 Vimeo 链接转换为嵌入式 iframe。"
+
+#: MarkupMarkdown/Addons/Released/Media/Youtube.php:22
+msgid "Convert automatically Youtube links to an embedded iframe."
+msgstr "自动将 Youtube 链接转换为嵌入式 iframe。"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:279
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:168
+msgid "Create Link"
+msgstr "创建链接"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:121
+msgid "Current Toolbar (Preview)"
+msgstr "当前工具栏（预览）"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:107
+msgid "Custom toolbar"
+msgstr "自定义工具栏"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:455
+msgid ""
+"Data are borrowed from 3rd parties software (Sublime, OpenOffice, Mozilla, "
+"etc ...), some languages are unavailable, and a few variants missing. Data "
+"are free to use (*GPL or similar licenses), try to contribute to the "
+"original project mostly done by volunteers if you want better spell checking."
+msgstr ""
+"数据借用自第三方软件（Sublime、OpenOffice、Mozilla 等），某些语言不可用，并且缺少一些变体。数据可免费使用（*GPL "
+"或类似许可证），如果您想要更好的拼写检查，请尝试为主要由志愿者完成的原始项目做出贡献。"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:519
+msgid "Default"
+msgstr "默认"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:452
+msgid ""
+"Dictionaries available from your browser (Firefox, Chrome, Edge, ...) or "
+"your operating system (Linux, Macintosh, Windows, etc ...) can't be used or "
+"accessed as it is, you need to select and install specific dictionaries to "
+"be downloaded on your server and used with the markdown editor while you "
+"input your text."
+msgstr ""
+"您的浏览器（Firefox、Chrome、Edge......）或操作系统（Linux、Macintosh、Windows 等......"
+"）中的字典无法正常使用或访问，您需要选择并安装特定的字典，下载到服务器上，在输入文本时与 markdown 编辑器配合使用。"
+
+#: MarkupMarkdown/Addons/Released/OPCache.php:19
+msgid "Disable Static Cache"
+msgstr "禁用静态缓存"
+
+#: MarkupMarkdown/Addons/Released/LaTeX.php:24
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:5
+msgid "Easily type and render math formulas inside your post."
+msgstr "在您的帖子中轻松输入和呈现数学公式。"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:42
+msgid "EasyMde WYSIWYG"
+msgstr "EasyMde 所见即所得"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:471
+msgid "File size matters"
+msgstr "文件大小很重要"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:181
+msgid "Fullscreen"
+msgstr "全屏"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:276
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:162
+msgid "Generic List"
+msgstr "通用列表"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:183
+msgid "Guide"
+msgstr "指南"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:268
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:146
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:147
+msgid "Heading"
+msgstr "标题"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:5
+msgid ""
+"Here are a few settings you can change to modify the behavior of your blog "
+"posts."
+msgstr "以下是一些您可以更改的设置，用于修改博文行为。"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:175
+msgid "Horizontal Line"
+msgstr "水平线"
+
+#. Author URI of the plugin
+#: markup-markdown.php
+msgid "https://www.markup-markdown.com"
+msgstr "https://www.markup-markdown.com"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:101
+msgid "Hung Spell Checker"
+msgstr "Hung Spell Checker"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:474
+msgid ""
+"I don't recommend to activate more than 2 languages. Please remember that "
+"the related files (a few megabytes) will be loaded in the memory of your "
+"browser so depending on the weight of the related files AND the "
+"specification of your computer, the editor might freeze for a few seconds, "
+"especially when accessing the edit screen. Please be gentle and patient... "
+"In the worst case well you won't be able to use it and will need to disable "
+"it. Can't do better on my side."
+msgstr ""
+"我不建议激活超过 2 "
+"种语言。请记住，相关文件（几兆字节）将加载到浏览器的内存中，因此根据相关文件的大小和计算机的规格，编辑器可能会冻结几秒钟，尤其是在访问编辑屏幕时。请保持耐心……在最坏的情况下，您将无法使用它，需要禁用它。我这边没有更好的办法了。"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:481
+msgid ""
+"If you activate more than one dictionary, you have to pick up one as the "
+"default. Then in the editor, new buttons for the alternative languages will "
+"be shown in the toolbar so you can select the text and flag it as a "
+"different language. The code in your content is gonna look like this: &lt;"
+"span lang=\"XXX\"&gt;My text in another language&lt;/span&gt; where XXX is "
+"the code of the language as listed below. It might not be the easiest "
+"approach, regards accessibilities specifications you should already define "
+"the language in case you are using multiple languages on the same page!"
+msgstr ""
+"如果您启用了多个字典，则必须选择一个作为默认字典。 然后，在编辑器中，工具栏上将显示替代语言的新按钮，这样您就可以选择文本并将其标记为不同的语言。 "
+"内容中的代码将如下所示：&lt;span lang=\"XXX\"&gt;我的文本使用另一种语言&lt;/span&gt;，其中 XXX "
+"是下面列出的语言代码。 这可能不是最简单的方法，但考虑到访问规范，如果您在同一页面上使用多种语言，您应该已经定义了语言！"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:467
+msgid ""
+"In case you need to activate multiple languages, please read the following "
+"disclaimers carefully:"
+msgstr "如需要启用多种语言，请仔细阅读以下免责声明："
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:282
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:174
+msgid "Insert Horizontal Line"
+msgstr "插入水平线"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:280
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:170
+msgid "Insert or Upload Media"
+msgstr "插入或上传媒体"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:281
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:172
+msgid "Insert Table"
+msgstr "插入表格"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:532
+msgid "Install"
+msgstr "安装"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:266
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:142
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:143
+msgid "Italic"
+msgstr "斜体"
+
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:37
+msgid "Katex rendering"
+msgstr "Katex 渲染"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:68
+msgid ""
+"Keep a minimum of assets active if your theme was designed to be used with "
+"Gutenberg. Can avoid broken layout in case styles are missing."
+msgstr ""
+"如果您的主题是为配合 Gutenberg 使用而设计的\n"
+"，则应尽量减少动态资源。 可避免因样式丢失而导致布局中断。"
+
+#: MarkupMarkdown/Addons/Released/LaTeX.php:23
+#: MarkupMarkdown/Addons/Released/LaTeX.php:107
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:4
+msgid "LaTeX"
+msgstr "LaTeX"
+
+#: MarkupMarkdown/Addons/Released/Layout.php:25
+#: MarkupMarkdown/Addons/Released/Layout.php:127
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:4
+msgid "Layout"
+msgstr "布局"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:193
+msgid "Left to Right text direction"
+msgstr "文字方向从左到右"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:26
+msgid "Level 1 (H1)"
+msgstr "1级（H1）"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:30
+msgid "Level 2 (H2)"
+msgstr "2 级（H2）"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:34
+msgid "Level 3 (H3)"
+msgstr "3 级（H3）"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:38
+msgid "Level 4 (H4)"
+msgstr "4 级（H4）"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:42
+msgid "Level 5 (H5)"
+msgstr "5 级（H5）"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:46
+msgid "Level 6 (H6)"
+msgstr "6 级（H6）"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:169
+msgid "Link"
+msgstr "链接"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:163
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:165
+msgid "List"
+msgstr "列表"
+
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:47
+msgid "Load assets"
+msgstr "加载资源"
+
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:52
+msgid ""
+"Load the LaTeX engine related assets on the frontend as well. (Only added to "
+"the edit screen by default)"
+msgstr "在前端也加载 LaTeX 引擎相关资产。（默认情况下仅添加到编辑屏幕）"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:521
+msgid "Make default"
+msgstr "设为默认"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:286
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:182
+msgid "Markdown Guide"
+msgstr "Markdown 指南"
+
+#. Plugin Name of the plugin
+#: markup-markdown.php
+msgid "Markup Markdown"
+msgstr "Markup Markdown"
+
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:41
+msgid "Mathjax rendering"
+msgstr "Mathjax渲染"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:171
+msgid "Media Library"
+msgstr "媒体库"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:272
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:154
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:155
+msgid "Medium Heading"
+msgstr "中等标题"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:462
+msgid "Monolingual: Usable, performances are correct."
+msgstr "单语言：可用、性能正确。"
+
+#: MarkupMarkdown/Core/Settings.php:127
+msgid ""
+"Most of the following settings are related to addons. You can globally "
+"enable or disable addons from the %1$s screen options %2$s panel."
+msgstr "以下大部分设置都与插件相关。 您可以通过 %1$s 页面选项 %2$s 面板全局启用或禁用插件。"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:102
+msgid ""
+"Multilingual spell checker for your posts! Enable live spellchecking with "
+"multiple languages while writing your articles."
+msgstr "多语言拼写检查程序！ 在撰写文章时启用多语言实时拼写检查功能。"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:478
+msgid "No automatic language detection"
+msgstr "无自动语言检测"
+
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:33
+msgid "None"
+msgstr "无"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:277
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:164
+msgid "Numbered List"
+msgstr "编号列表"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:485
+msgid "One specific dictionary per language"
+msgstr "每种语言有一个特定字典"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:459
+msgid "Performances"
+msgstr "表现"
+
+#. Author of the plugin
+#: markup-markdown.php
+msgid "Pierre-Henri Lavigne"
+msgstr "Pierre-Henri Lavigne"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:264
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:139
+msgid "Pipe"
+msgstr "管道"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:52
+msgid "Preserve spaces"
+msgstr "保留空间"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:177
+msgid "Preview"
+msgstr "预览"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:275
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:160
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:161
+msgid "Quote"
+msgstr "引用"
+
+#: MarkupMarkdown/Core/Activation.php:86
+msgid "Rate this plugin »"
+msgstr "给该插件评分 »"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:288
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:186
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:187
+msgid "Redo"
+msgstr "重做"
+
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:28
+msgid "Rendering engine"
+msgstr "渲染引擎"
+
+#. Description of the plugin
+#: markup-markdown.php
+msgid ""
+"Replaces the Gutenberg Block Editor in favor of pure markdown based markups"
+msgstr "抛弃 Gutenberg 区块编辑器，转而使用基于 markdown 的纯标记语言"
+
+#: MarkupMarkdown/Addons/Released/Media/Image.php:26
+msgid "Responsive Image"
+msgstr "响应式图片"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:191
+msgid "Right to Left text direction"
+msgstr "文字方向从右到左"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:20
+msgid "Select headline weights"
+msgstr "选择标题权重"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:179
+msgid "Side by Side"
+msgstr "排列"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:273
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:156
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:157
+msgid "Small Heading"
+msgstr "小标题"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:269
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:148
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:149
+msgid "Smaller Heading"
+msgstr "较小标题"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:488
+msgid ""
+"Sounds obvious, multilingual means multiple languages on the same medium. "
+"With the current interface you could try activating two variants of the same "
+"parent language, for exemple American English and British English, that "
+"won't work of course!!! (Or they will be really odd side effects)"
+msgstr ""
+"听起来很明显，多语言意味着在同一媒介上使用多种语言。在当前界面下，您可以尝试激活同一母语的两种变体，例如美式英语和英式英语，当然这行不通！！！（或者它们会产生非常奇怪的副作用）"
+
+#: MarkupMarkdown/Addons/Released/Templates/LaTeXForm.php:56
+msgid ""
+"Specify the ID of an HTML node to parse when a page is loaded. (Parse the "
+"whole body by default)"
+msgstr "指定页面加载时要解析的 HTML 节点的 ID。（默认解析整个正文）"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:433
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:449
+msgid "Spell Checker"
+msgstr "拼写检查"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:289
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:188
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:189
+msgid "Spellchecker"
+msgstr "拼写检查"
+
+#: MarkupMarkdown/Addons/Released/OPCache.php:20
+msgid ""
+"Static html files can be generated to speed up the rendering if the default "
+"PHP OPCache if available. Uncheck to enable."
+msgstr "如果默认 PHP OPCache 可用，则可以生成静态 html 文件以加快渲染速度。取消选中以启用。"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:267
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:144
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:145
+msgid "Strikethrough"
+msgstr "删除线"
+
+#: MarkupMarkdown/Core/Activation.php:85
+msgid "Support"
+msgstr "支持"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:192
+msgid "Switch text direction to left"
+msgstr "将文字方向切换到左"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:190
+msgid "Switch text direction to right"
+msgstr "将文字方向切换到右"
+
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:173
+msgid "Table"
+msgstr "表格"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:43
+msgid "The default Markdown Editor."
+msgstr "默认的 Markdown 编辑器。"
+
+#: MarkupMarkdown/Addons/Unsupported/AdvancedCustomField.php:22
+msgid ""
+"This addon enable a new content type so you can write directly markdown with "
+"the \"Markup Markdown\" custom field from ACF."
+msgstr "该插件启用了一种新的内容类型，使您可以使用 ACF 的 \" Markup Markdown \"自定义字段直接编写标记符。"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:285
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:180
+msgid "Toggle Fullscreen"
+msgstr "切换全屏"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:283
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:176
+msgid "Toggle Preview"
+msgstr "切换预览"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:284
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:178
+msgid "Toggle Side by Side"
+msgstr "排列切换"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:90
+msgid ""
+"Transform a bullet list of images as a 2 waterfall column layout when the "
+"%1$sphoto gallery%2$s post format is selected."
+msgstr "当选择 %1$s 照片库 %2$s 帖子格式时，将图像的项目符号列表转换为双瀑布列布局。"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:101
+msgid ""
+"Trigger the update of the layout after all images are loaded. Can solve "
+"specific issues in case the layout is broken with the gallery."
+msgstr "在所有图片加载完毕后触发布局更新。 可解决图库布局被破坏时的特殊问题。"
+
+#: MarkupMarkdown/Addons/Released/EngineEasyMDE.php:287
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:184
+#: MarkupMarkdown/Addons/Released/Media/ToolbarEasyMDE.php:185
+msgid "Undo"
+msgstr "撤消"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:63
+msgid "Use Gutenberg blocks styles"
+msgstr "使用 Gutenberg 区块样式"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:96
+msgid "Use Imagesloaded"
+msgstr "使用 Imagesloaded"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:74
+msgid "Use Lightbox"
+msgstr "使用灯箱"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:85
+msgid "Use Masonry"
+msgstr "使用砖石"
+
+#: MarkupMarkdown/Addons/Released/Media/Vimeo.php:21
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: MarkupMarkdown/Addons/Unsupported/SpellChecker.php:466
+msgid ""
+"When possible I would advise using dictionaries embedded in two languages "
+"like Russian-English."
+msgstr "在可行情况下，我建议使用中英双语词典。"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:155
+msgid "You can drag the following buttons and drop them to the toolbar above."
+msgstr "您可以将以下按钮拖放到上面的工具栏。"
+
+#: MarkupMarkdown/Core/Settings.php:293
+msgid "You can manually activate or desactivate specific addons."
+msgstr "您可以手动激活或禁用特定的插件。"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:123
+msgid "You can sort the buttons and remove some of them if need."
+msgstr "您可以对按钮进行排序，并根据需要进行移除。"
+
+#: MarkupMarkdown/Addons/Released/Templates/LayoutForm.php:23
+msgid ""
+"You can toggle specific heading levels for your authors to avoid conflicts "
+"with your theme setup. At least two weights are required."
+msgstr "您可以为作者切换特定的标题级别，以避免与主题设置冲突。 至少需要两个权重。"
+
+#: MarkupMarkdown/Addons/Released/Media/Youtube.php:21
+msgid "Youtube"
+msgstr "YouTube"

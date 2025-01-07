@@ -1,0 +1,201 @@
+# Copyright (C) 2024 Paid Memberships Pro
+# This file is distributed under the same license as the Paid Memberships Pro - Pay by Check Add On plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Paid Memberships Pro - Pay by Check Add On 1.1\n"
+"Report-Msgid-Bugs-To: info@paidmembershipspro.com\n"
+"Last-Translator: \n"
+"Language-Team: 简体中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-15T17:04:16+00:00\n"
+"PO-Revision-Date: 2024-10-29 11:12+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: pmpro-pay-by-check\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1"
+
+#: includes/frontend.php:55
+msgid "%sImportant Notice:%s We are still waiting for payment of this invoice."
+msgstr "%s重要通知：%s我们仍在等待这张发票的付款。"
+
+#: includes/frontend.php:26
+msgid ""
+"%sImportant Notice:%s We are still waiting for payment on %sthe latest "
+"invoice%s for your %s membership."
+msgstr "%s 重要通知：%s 我们仍在等待 %s 的付款，该款项的最新发票是 %s ，用于您的 %s 会员资格。"
+
+#: includes/frontend.php:53
+msgid ""
+"%sMembership pending.%s We are still waiting for payment of this invoice."
+msgstr "%s会员资格待定。%s 我们仍在等待这张发票的付款。"
+
+#: includes/frontend.php:24
+msgid ""
+"%sYour %s membership is pending.%s We are still waiting for payment for "
+"%syour latest invoice%s."
+msgstr "%s您的 %s 会员资格正在等待处理。%s 我们仍在等待 %s您的最新发票 %s 的付款。"
+
+#. Description of the plugin
+#: pmpro-pay-by-check.php
+msgid ""
+"A collection of customizations useful when allowing users to pay by check "
+"for Paid Memberships Pro levels."
+msgstr "当允许用户通过支票支付付费会员专业级别费用时有用的一组自定义内容。"
+
+#: includes/admin.php:18
+msgid "Allow Paying by %s:"
+msgstr "允许 %s 付款："
+
+#: includes/frontend.php:89
+msgid ""
+"Below are details about your membership account and a receipt for your "
+"initial membership invoice. A welcome email with a copy of your initial "
+"membership invoice has been sent to %s."
+msgstr "以下是您的会员帐户的详细信息以及您的初始会员发票的收据。一封包含您的初始会员发票副本的欢迎电子邮件已发送至 %s。"
+
+#: includes/admin.php:40
+msgid "Cancel Membership:"
+msgstr "取消会员资格："
+
+#: includes/admin.php:14
+msgid ""
+"Change this setting to allow or disallow the \"Pay by %s\" option for this "
+"level."
+msgstr "更改此设置以允许或禁止此级别的“按 %s 付款”选项。"
+
+#: includes/admin.php:11 includes/checkout.php:22
+msgid "Check"
+msgstr "支票"
+
+#: includes/checkout.php:63
+msgid "Check Out with PayPal"
+msgstr "使用 PayPal 结账"
+
+#: includes/checkout.php:31
+msgid "Choose Your Payment Method"
+msgstr "选择你的付款方式"
+
+#: includes/admin.php:36 includes/admin.php:42
+msgid "days after a missed payment."
+msgstr "天后未付款。"
+
+#: includes/admin.php:30
+msgid "days before renewal."
+msgstr "天前续订。"
+
+#: includes/emails.php:131 includes/emails.php:204
+msgid "Discount Code"
+msgstr "折扣代码"
+
+#: pmpro-pay-by-check.php:54
+msgid "Docs"
+msgstr "文档"
+
+#. Author URI of the plugin
+#: pmpro-pay-by-check.php
+msgid "https://www.paidmembershipspro.com"
+msgstr "https://www.paidmembershipspro.com"
+
+#. Plugin URI of the plugin
+#: pmpro-pay-by-check.php
+msgid "https://www.paidmembershipspro.com/add-ons/pmpro-pay-by-check-add-on/"
+msgstr "https://www.paidmembershipspro.com/add-ons/pmpro-pay-by-check-add-on/"
+
+#: includes/emails.php:90
+msgid "New Invoice for %s at %s"
+msgstr "为 %s 于 %s 上开具新发票"
+
+#: includes/admin.php:21
+msgid "No. Use the default gateway only."
+msgstr "否。仅使用默认网关。"
+
+#: includes/frontend.php:81
+msgid ""
+"Once payment is received and processed you will gain access to your "
+"membership content."
+msgstr "一旦收到并处理付款，您将可以访问您的会员内容。"
+
+#. Author of the plugin
+#: pmpro-pay-by-check.php
+msgid "Paid Memberships Pro"
+msgstr "付费会员专业版"
+
+#. Plugin Name of the plugin
+#: pmpro-pay-by-check.php
+msgid "Paid Memberships Pro - Pay by Check Add On"
+msgstr "付费会员专业版 - 支票付款附加功能"
+
+#: includes/checkout.php:54 includes/checkout.php:271
+msgid "Pay by %s"
+msgstr "%s 付款"
+
+#: includes/admin.php:13
+msgid "Pay by %s Settings"
+msgstr "按 %s 付款设置"
+
+#: includes/checkout.php:47
+msgid "Pay by Credit Card"
+msgstr "信用卡付款"
+
+#: includes/checkout.php:43
+msgid "Pay with 2Checkout"
+msgstr "使用 2Checkout 付款"
+
+#: includes/checkout.php:45
+msgid "Pay with PayFast"
+msgstr "使用 PayFast 付款"
+
+#: includes/checkout.php:41
+msgid "Pay with PayPal"
+msgstr "使用 PayPal 付款"
+
+#: includes/emails.php:163
+msgid "Pending checkout for !!display_name!! at !!sitename!!"
+msgstr "正在等待 !!sitename!! 上 !!display_name!! 的结帐"
+
+#: includes/emails.php:234
+msgid "Reminder: New Invoice for %s at %s"
+msgstr "提醒：%s 的新发票，日期为 %s"
+
+#: includes/admin.php:34
+msgid "Send Reminder Emails:"
+msgstr "发送提醒电子邮件："
+
+#: includes/admin.php:28
+msgid "Send Renewal Emails:"
+msgstr "发送续订电子邮件："
+
+#: pmpro-pay-by-check.php:55
+msgid "Support"
+msgstr "支持"
+
+#: includes/frontend.php:81
+msgid ""
+"Thank you for your membership to %1$s. Your %2$s membership status is: <b>"
+"%3$s</b>."
+msgstr "感谢您成为 %1$s 的会员。您的 %2$s 会员状态为：<b>%3$s</b>。"
+
+#: pmpro-pay-by-check.php:54
+msgid "View Documentation"
+msgstr "查看文档"
+
+#: pmpro-pay-by-check.php:55
+msgid "Visit Customer Support Forum"
+msgstr "访问客户支持论坛"
+
+#: includes/admin.php:23
+msgid "Yes. Users can only pay by %s."
+msgstr "是的。用户只能通过 %s 付款。"
+
+#: includes/admin.php:22
+msgid "Yes. Users choose between default gateway and %s."
+msgstr "是的。用户可在默认网关和 %s 之间进行选择。"
+
+#: includes/member-pending-deprecated.php:217
+msgid ""
+"Your payment is currently pending. You will gain access to this page once it "
+"is approved."
+msgstr "您的付款目前正在等待处理。一旦获得批准，您就可以访问此页面。"

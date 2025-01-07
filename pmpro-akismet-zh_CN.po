@@ -1,0 +1,61 @@
+# Copyright (C) 2022 Paid Memberships Pro
+# This file is distributed under the same license as the Paid Memberships Pro - Akismet Integration plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Paid Memberships Pro - Akismet Integration 1.0\n"
+"Report-Msgid-Bugs-To: info@paidmembershipspro.com\n"
+"Last-Translator: David唐辉\n"
+"Language-Team: 简体中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-22T09:18:53+00:00\n"
+"PO-Revision-Date: 2025-01-07 10:22+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: pmpro-akismet\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1"
+
+#. Plugin Name of the plugin
+#: pmpro-akismet.php:60 pmpro-akismet.php:90
+msgid "Paid Memberships Pro - Akismet Integration"
+msgstr "付费会员专业版 - Akismet 集成"
+
+#. Plugin URI of the plugin
+msgid "https://www.paidmembershipspro.com/add-ons/pmpro-akismet/"
+msgstr "https://www.paidmembershipspro.com/add-ons/pmpro-akismet/"
+
+#. Description of the plugin
+msgid "Integrates Akismet with Paid Memberships Pro."
+msgstr "将【Akismet】与【付费会员专业版】整合在一起。"
+
+#. Author of the plugin
+#: pmpro-akismet.php:35
+msgid "Paid Memberships Pro"
+msgstr "付费会员专业版"
+
+#. Author URI of the plugin
+msgid "https://www.paidmembershipspro.com"
+msgstr "https://www.paidmembershipspro.com"
+
+#: includes/checkout.php:55
+msgid "Sorry, your username or email has been flagged as suspicious."
+msgstr "抱歉，您的用户名或电子邮件已被标记为可疑。"
+
+#: pmpro-akismet.php:36
+msgid "Akismet"
+msgstr "Akismet"
+
+#: pmpro-akismet.php:59 pmpro-akismet.php:89
+msgid "The following plugin(s) are required for the %1$s plugin to work: %2$s"
+msgstr "%1$s 插件需要以下插件才能运行：%2$s"
+
+#: pmpro-akismet.php:100
+msgid ""
+"The Paid Memberships Pro - Akismet Integration add-on requires a valid API "
+"key in Akismet. Please enter a valid API key in Akismet to enable anti-spam "
+"functionality."
+msgstr ""
+"【付费会员专业版 - Akismet 集成】插件需要【Akismet】中的有效 API 密钥。请在【Akismet】中输入有效 API "
+"密钥以启用反垃圾邮件功能。"
